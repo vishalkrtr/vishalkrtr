@@ -1,0 +1,48 @@
+Operative Framework – Open Source Intelligence Gathering Tool
+git clone https://github.com/graniet/operative-framework.git
+
+
+RapidScan – Free Web Vulnerability Scanner Framework
+git clone https://github.com/skavngr/rapidscan.git
+
+
+XAttacker Tool – Scan and Auto Exploit Web Vulnerabilities
+git clone https://github.com/Moham3dRiahi/XAttacker.git
+
+
+Fsociety Hacking Tools Pack – Open Source Penetration Testing Framework
+git clone https://github.com/Manisso/fsociety.git
+
+
+Social Mapper – Find Social Media Profiles Using Only a Photo
+git clone https://github.com/SpiderLabs/social_mapper
+cd social_mapper/setup
+pip install -r requirements.txt
+social_mapper.py -f <input format> -i <input type > -m <mode> –<target media>
+
+
+Trape – A Free GUI Based Phishing/Tracking Tool
+git clone https://github.com/boxug/trape.git
+
+
+Cansina – Open Source Hidden Content Discovery Tool
+pip install --user requests[security]
+git clone --depth=1 https://github.com/deibit/cansina
+
+
+Blackeye – A Free Phishing Tool
+git clone https://github.com/whiteeagle0/blackeye
+cd blackeye
+bash blackeye.sh
+
+
+Osueta – A Script for OpenSSH Server Side Attacks
+apt-get install python-ipy python-nmap
+pip install paramiko
+git clone https://github.com/c0r3dump3d/osueta.git
+
+
+DumpsterDiver – The Tool For Finding Hardcoded Secrets
+
+
+Airgeddon – A Swiss Army WiFi Hacking Tool
